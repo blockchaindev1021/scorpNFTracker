@@ -1,0 +1,40 @@
+{
+  "name": "web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next export"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.4.0",
+    "@heroicons/react": "^1.0.3",
+    "@react-pdf/renderer": "^2.0.19",
+    "aos": "^2.3.4",
+    "lottie-react": "^2.1.0",
+    "next": "11.1.0",
+    "qs": "^6.10.1",
+    "react": "17.0.2",
+    "react-custom-scrollbars": "^4.2.1",
+    "react-dom": "17.0.2",
+    "react-fast-marquee": "^1.2.1",
+    "react-google-charts": "^3.0.15",
+    "react-icons": "^4.2.0",
+    "react-minimal-pie-chart": "^8.2.0",
+    "react-parallax-tilt": "^1.5.57",
+    "react-particles-js": "^3.5.3",
+    "react-pdf": "^5.3.2",
+    "react-vertical-timeline-component": "^3.3.3",
+    "tsparticles": "^1.33.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.1",
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.0",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7"
+  }
+}
